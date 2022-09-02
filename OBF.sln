@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OBF.SaveGameEditor", "OBF.SaveGameEditor\OBF.SaveGameEditor.csproj", "{EB97E983-F3B0-4CB9-8D09-0F6D15C3F207}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnrealEngine.Gvas", "UnrealEngine.Gvas\UnrealEngine.Gvas.csproj", "{83C65D14-DA10-48DB-BA2B-4009A21B7838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB97E983-F3B0-4CB9-8D09-0F6D15C3F207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB97E983-F3B0-4CB9-8D09-0F6D15C3F207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB97E983-F3B0-4CB9-8D09-0F6D15C3F207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB97E983-F3B0-4CB9-8D09-0F6D15C3F207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C65D14-DA10-48DB-BA2B-4009A21B7838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C65D14-DA10-48DB-BA2B-4009A21B7838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C65D14-DA10-48DB-BA2B-4009A21B7838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C65D14-DA10-48DB-BA2B-4009A21B7838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183F5C1D-93B2-43F9-AF27-C068293116AE}
+	EndGlobalSection
+EndGlobal
